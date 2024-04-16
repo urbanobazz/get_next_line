@@ -1,2 +1,2 @@
 # get_next_line
-nothing
+get_next_line is a function that retrieves a single line from a specified file descriptor, allowing sequential reading of file contents until EOF. This project taught me how to read from file descriptors and utilize static variables effectively. Additionally, it provides flexibility by allowing compilation with customizable buffer sizes. Through its development, I gained insight into file I/O operations, memory management, and the implementation of robust, reusable functions in C.
